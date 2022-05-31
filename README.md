@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prudviraju1999
-- 👀 I’m interested in 4.O Technoligies
-- 🌱 I’m currently learning Full Stack in MERN specilazation
-- 💞️ I’m looking to collaborate with good MNC to start my carier
-- 📫 You can reach me 9346562718
+- 👀 I’m interested in 4. O Technologies
+- 🌱 I’m currently learning Full Stack in MERN specialization
+- 💞️ I’m looking to collaborate with a good MNC to start my career
+- 📫 You can reach me at 9346562718
 
 <!---
 Prudviraju1999/Prudviraju1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
