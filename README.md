@@ -2,7 +2,7 @@
 - 👀 I’m interested in 4. O Technologies
 - 🌱 I’m currently learning Full Stack in MERN specialization
 - 💞️ I’m looking to collaborate with a good MNC to start my career
-- 📫 You can reach me at 9346562718
+- 📫 You can reach me at 9346562718 & prudhviraj5364@gmail.com
 
 <!---
 Prudviraju1999/Prudviraju1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
